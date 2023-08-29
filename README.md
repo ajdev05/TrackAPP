@@ -13,7 +13,7 @@ To run TrackAPP, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/yourusername/trackapp.git
+git clone https://github.com/ajdev05/trackapp.git
 ```
 
 
