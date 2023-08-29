@@ -49,9 +49,9 @@ python3 TrackAPP.py
 ```
 
 
-2. The application will open a graphical user interface (GUI) where you can enter the name of the app you want to track.
+2. The application will open a Command Line Interface (CLI) where you can enter the name of the app you want to track.
 
-3. Click the "Start Tracking" button in the GUI to start tracking the specified app.
+3. After entering the name of the app press ``ENTER`` to start tracking the specified app.
 
 4. The app will send notifications when the specified app is opened and closed, along with the duration it was open.
 
